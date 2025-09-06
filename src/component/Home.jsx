@@ -30,7 +30,10 @@ function Home({url,url2,url3}){
                       
                 </div>
                 <div className="w-[40%] mt-5">Simplyfying global education with trusted guidance for over 24 years </div>
-                <div className="w-40 "> <button className=" bg-green-500 rounded text-white  shadow-2xl shadow-green-700 hover:bg-green-900 hover:scale-102 p-2 ">Take the First step</button></div>
+                <div className="w-40 "> <button className=" bg-green-500 rounded text-white shadow-lg  shadow-green-700 hover:bg-green-900 hover:scale-102 p-2 ">Take the First step</button></div>
+                <div>
+
+                </div>
                 </div>
                 <div className="w-[20%]  h-70 p-5">
                     <img src={url3} alt="" className="h-19 animate-bounce"/>
